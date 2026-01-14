@@ -9,8 +9,10 @@
   <a href="https://orange-3dv-team.github.io/MoCha"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Web&color=green"></a> &ensp;
   <a href="https://huggingface.co/Orange-3DV-Team/MoCha"><img src="https://img.shields.io/static/v1?label=MoCha&message=HuggingFace&color=yellow"></a> &ensp;
   <a href="https://github.com/kijai/ComfyUI-WanVideoWrapper"><img src="https://img.shields.io/static/v1?label=workflow&message=ComfyUI&color=purple"></a> &ensp;
-  <a href="https://arxiv.org/abs/2601.08587"><img src="https://img.shields.io/static/v1?label=arxiv&message=paper&color=red"></a> &ensp;
+  <a href="https://arxiv.org/abs/2601.08587"><img src="https://img.shields.io/static/v1?label=paper&message=arxiv&color=red"></a> &ensp;
 </div>
+
+### 🔥🔥🔥Welcome to read our full [paper](https://arxiv.org/abs/2601.08587)!
 
 https://github.com/user-attachments/assets/5fe4d80f-3aa4-4d45-8a29-a4d51f6d339d
 
@@ -18,7 +20,7 @@ https://github.com/user-attachments/assets/b9a5525f-cebf-4295-9738-7dd755daacf4
 
 
 ## 🔥 Updates
-- __[2026.01.14]__: Paper released on [arxiv](https://arxiv.org/abs/2601.08587).
+- __[2026.01.14]__: Paper released on [arxiv](https://arxiv.org/abs/2601.08587)!
 - __[2025.10.22]__: **Special thanks** to @kijai for adding MoCha to the custom ComfyUI node WanVideoWrapper!
 - __[2025.10.21]__: Try our work with [ComfyUI workflow](https://github.com/kijai/ComfyUI-WanVideoWrapper)!
 - __[2025.10.21]__: Release the [inference code](https://github.com/Orange-3DV-Team/MoCha-Code).
@@ -117,6 +119,7 @@ Please leave us a star 🌟 and cite our repo if you find our work helpful.
   url={https://github.com/Orange-3DV-Team/MoCha}, 
 }
 ```
+
 
 
 
