@@ -114,11 +114,12 @@ Please leave us a star 🌟 and cite our repo if you find our work helpful.
 @inproceedings{orange2025mocha,
   title={MoCha: End-to-End Video Character Replacement without Structural Guidance}, 
   author={Zhengbo Xu, Jie Ma, Ziheng Wang, Zhan Peng, Jun Liang, Jing Li},
-  journal={arXiv preprint arXiv:2601.08587}
+  journal={arXiv preprint arXiv:2601.08587},
   year={2026},
-  url={https://github.com/Orange-3DV-Team/MoCha}, 
+  url={https://github.com/Orange-3DV-Team/MoCha}
 }
 ```
+
 
 
 
