@@ -20,6 +20,7 @@ https://github.com/user-attachments/assets/b9a5525f-cebf-4295-9738-7dd755daacf4
 
 
 ## 🔥 Updates
+- __[2026.02.21]__: Paper accepted by [**CVPR 2026**](https://cvpr.thecvf.com/)!
 - __[2026.01.14]__: Paper released on [arxiv](https://arxiv.org/abs/2601.08587)!
 - __[2025.10.22]__: **Special thanks** to @kijai for adding MoCha to the custom ComfyUI node WanVideoWrapper!
 - __[2025.10.21]__: Try our work with [ComfyUI workflow](https://github.com/kijai/ComfyUI-WanVideoWrapper)!
@@ -119,6 +120,7 @@ Please leave us a star 🌟 and cite our repo if you find our work helpful.
   url={https://github.com/Orange-3DV-Team/MoCha}
 }
 ```
+
 
 
 
